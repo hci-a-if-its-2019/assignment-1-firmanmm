@@ -31,7 +31,7 @@ Below is the description of the user that **may or may not** have direct impact 
 - Active internet user
 - Active computer and smartphone (Android) user
 ## Transcript
-Please kept in mind that most of the interaction here is informal. Some of the conversation is **not written** in the transcript as it doesn't contains any useful information.
+Please kept in mind that most of the interaction here is informal. Some of the conversations are **not written** in the transcript as it doesn't contains any useful information.
 ```
 - BEGIN USER INFORMATION GATHERING -
 00:00:07 - Me : (Some informal introduction)
@@ -108,7 +108,10 @@ This is how the page looks like inside "Sistem Informasi"'s "Semeter VII". As yo
 Here is how the "Sistem Informasi" page looks like. Users seems to ignore that there is a breadcrumb in this page that can be used for quick naviation and prefer to click backward instead of using it.
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+A flow model is a diagram giving the big picture or overview of work, emphasizing communication and information flow among work roles and between work roles and system components within the work practice of an organization. [UXBook:190]
+
+!["Flow Model - 5"](document/FlowDiagram.JPG)
+
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
