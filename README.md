@@ -95,14 +95,11 @@ The artifact model is mainly a collection of artifacts. [UXBook:237]
 !["Artifact Model - 1"](document/Artifact-01.JPG)
 This is how the homepage looks like. The left sidebar has too much text in one area. Or atleast don't put it in the homepage as not everyone is a Teacher. User usually do login using a form in the top right corner. 
 
-!["Artifact Model - 2"](document/Artifact-02.JPG)
-User can access this page by using "Dashboard" menu in the user drop down field. The side navigation didn't show the list of possible class that usualy be found in other page.
-
 !["Artifact Model - 3"](document/Artifact-03.JPG)
-This is the result of searching teknologi bergerak in the search form. As you can see that "Teknologi Bergerak" doesn't have any description which make it looks like it isn't one of the search result. My subject needs to perform the search atleast 2 times before she realize that it was one of the search result.
+This is the result of searching teknologi bergerak in the search form. As you can see that "Teknologi Bergerak" doesn't have any description and the background color of the text is useless that makes it looks like it isn't one of the search result. My subject needs to perform the search atleast 2 times before she realize that it was one of the search result.
 
 !["Artifact Model - 4"](document/Artifact-04.JPG)
-This is how the page looks like inside "Sistem Informasi"'s "Semeter VII". As you can see that the side navigation and the main navigation has different contents forcing user to use the main navigation.
+This is how the page looks like inside "Sistem Informasi"'s "Semeter VII". As you can see that the side navigation and the main navigation has different contents forcing usezr to use the main navigation.
 
 !["Artifact Model - 5"](document/Artifact-05.JPG)
 Here is how the "Sistem Informasi" page looks like. Users seems to ignore that there is a breadcrumb in this page that can be used for quick naviation and prefer to click backward instead of using it.
@@ -110,12 +107,26 @@ Here is how the "Sistem Informasi" page looks like. Users seems to ignore that t
 ### Flow Model
 A flow model is a diagram giving the big picture or overview of work, emphasizing communication and information flow among work roles and between work roles and system components within the work practice of an organization. [UXBook:190]
 
-!["Flow Model - 5"](document/FlowDiagram.JPG)
+!["Flow Model"](document/FlowDiagram.JPG)
 
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+The social model is a design-informing model that captures the communal aspects of the users’ organizational workplace, including the overall flavor, philosophy, ambiance, and environmental factors. [UXBook:196]
+
+!["Cultural Model - 5"](document/CulturalModel.JPG)
+
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+Based on this Contextual Inquiry here's what share.its.ac.id should and should not do:
+
+### Do
+- Consistent with the content in the sidebar.
+- Provide the course's name in the sidebar.
+- Make breadcrumbs more stand out.
+- Consistent style in the search result.
+- Give icons in navigation.
+
+### Don't
+- Put background text color in search result.
+- Too much text in the sidebar.
 
 # References
 Hartson Rex. Pyla Pardha. 2012. Elsefeir. The UX Book Process and Guidelines for Ensuring a Quality User Experience [UXBook]
