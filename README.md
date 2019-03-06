@@ -31,7 +31,7 @@ Below is the description of the user that **may or may not** have direct impact 
 - Active internet user
 - Active computer and smartphone (Android) user
 ## Transcript
-Please kept in mind that most of the interaction here is informal.
+Please kept in mind that most of the interaction here is informal. Some of the conversation is **not written** in the transcript as it doesn't contains any useful information.
 ```
 - BEGIN USER INFORMATION GATHERING -
 00:00:07 - Me : (Some informal introduction)
@@ -90,7 +90,23 @@ Please kept in mind that most of the interaction here is informal.
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+The artifact model is mainly a collection of artifacts. [UXBook:237]
+
+!["Artifact Model - 1"](document/Artifact-01.JPG)
+This is how the homepage looks like. The left sidebar has too much text in one area. Or atleast don't put it in the homepage as not everyone is a Teacher. User usually do login using a form in the top right corner. 
+
+!["Artifact Model - 2"](document/Artifact-02.JPG)
+User can access this page by using "Dashboard" menu in the user drop down field. The side navigation didn't show the list of possible class that usualy be found in other page.
+
+!["Artifact Model - 3"](document/Artifact-03.JPG)
+This is the result of searching teknologi bergerak in the search form. As you can see that "Teknologi Bergerak" doesn't have any description which make it looks like it isn't one of the search result. My subject needs to perform the search atleast 2 times before she realize that it was one of the search result.
+
+!["Artifact Model - 4"](document/Artifact-04.JPG)
+This is how the page looks like inside "Sistem Informasi"'s "Semeter VII". As you can see that the side navigation and the main navigation has different contents forcing user to use the main navigation.
+
+!["Artifact Model - 5"](document/Artifact-05.JPG)
+Here is how the "Sistem Informasi" page looks like. Users seems to ignore that there is a breadcrumb in this page that can be used for quick naviation and prefer to click backward instead of using it.
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
@@ -99,3 +115,4 @@ Please kept in mind that most of the interaction here is informal.
 Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
 
 # References
+Hartson Rex. Pyla Pardha. 2012. Elsefeir. The UX Book Process and Guidelines for Ensuring a Quality User Experience [UXBook]
