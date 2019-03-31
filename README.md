@@ -130,3 +130,12 @@ Based on this Contextual Inquiry here's what share.its.ac.id should and should n
 
 # References
 Hartson Rex. Pyla Pardha. 2012. Elsefeir. The UX Book Process and Guidelines for Ensuring a Quality User Experience [UXBook]
+
+# Remarks
+> * Thanks for providing such comprehensive report on this assignment.
+> * Actually, the `Instruction Script` section should consists of exclamation sentences (that's why it's called instruction) rather than statements.
+> * It seems that the `Transcript` exposes more about what the participant has done and less about what the participant has said. I suggest you to use `Think-aloud Protocol` in the next evaluation ensuring you get both action and verbal feedbacks from the participants.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 4                | 0               | 92,5               | 81.5       | 90,3  |
